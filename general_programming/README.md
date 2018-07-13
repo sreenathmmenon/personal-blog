@@ -82,3 +82,4 @@ https://github.com/mdn/django-diy-blog
 https://developer.mypurecloud.com/blog/
 https://github.com/jekyll/jekyll/wiki/sites
 https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+http://adventofcode.com/
